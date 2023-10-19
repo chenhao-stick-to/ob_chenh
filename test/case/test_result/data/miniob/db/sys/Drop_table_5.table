@@ -1,0 +1,22 @@
+{
+	"fields" : 
+	[
+		{
+			"len" : 4,
+			"name" : "id",
+			"offset" : 0,
+			"type" : "ints",
+			"visible" : true
+		},
+		{
+			"len" : 4,
+			"name" : "t_name",
+			"offset" : 4,
+			"type" : "chars",
+			"visible" : true
+		}
+	],
+	"indexes" : null,
+	"table_id" : 6,
+	"table_name" : "Drop_table_5"
+}
